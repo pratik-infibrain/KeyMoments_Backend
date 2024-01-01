@@ -1,0 +1,13 @@
+ul.errors {
+    list-style: none;
+    padding: 0px;
+    color: red;
+    /* font-weight: 500; */
+}
+.help-block {
+	color:red;
+}
+.loginlogo 
+{
+    width: 100%;
+}

@@ -1,0 +1,10 @@
+.error {
+    color: red;
+}
+body .jq-toast-wrap {
+    margin-top: 100px;
+    bottom: 0 !important;
+    right: 0px !important;
+    left: auto !important;
+    top: auto !important;
+}
